@@ -1,76 +1,65 @@
-# 👋 Cześć, jestem Szymon!
+# 👋 Hi, I'm Szymon!
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/429450cc-d714-45f1-9b1b-f7b4cfdae926" alt="Earth Animation" width="200" height="200">
+</div>
 
 ### 🎮 CS2 Cheat Developer & Full-Stack Developer
 
 ---
 
-## 🛠️ **Technologie & Umiejętności**
+## 🛠️ **Technologies & Skills**
 
-### 💻 Programowanie & Rozwój Cheatów
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+### 💻 Programming & Cheat Development
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Reverse_Engineering-FF6F00?style=for-the-badge" alt="Reverse Engineering">
+</div>
 
 ### 🎮 Game Development
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Game Development](https://img.shields.io/badge/Game_Development-FF6F61?style=for-the-badge)
+<div align="center">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/Game_Development-FF6F61?style=for-the-badge" alt="Game Development">
+</div>
 
 ### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Web Development](https://img.shields.io/badge/Web_Development-4285F4?style=for-the-badge)
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Web_Development-4285F4?style=for-the-badge" alt="Web Development">
+</div>
 
 ---
 
-## 🚀 **Aktualne Projekty**
+## 🚀 **Current Projects**
 
-### 🎯 **Tutamaka Cheat dla CS2**
-![Tutamaka Logo](https://szymon.hik.pl/cheat/tutamaka.png)
+### 🎯 **Tutamaka Cheat for CS2**
+*Advanced external cheat for Counter-Strike 2*
 
-**Najnowocześniejszy cheat do Counter-Strike 2 z zaawansowanymi funkcjami:**
+**✨ Features:**
+- 🔍 **ESP/Wallhack** - Advanced enemy highlighting system
+- 🎯 **Aimbot** - Intelligent targeting with smooth aiming
+- 📊 **Statistics** - Detailed game information overlay
+- ⚙️ **Customization** - Full configuration options
+- 🔒 **Security** - Advanced anti-detection mechanisms
+- 🖥️ **Overlay** - Clean and customizable game overlay
 
-- 🔍 **ESP/Wallhack** - zaawansowane podświetlanie przeciwników
-- 🎯 **Aimbot** - inteligentny system celowania
-- 📊 **Statystyki** - szczegółowe informacje o grze
-- ⚙️ **Customizacja** - pełna konfigurowalność ustawień
+**🛡️ Type:** External cheat  
+**🌍 Status:** In active development  
+**💻 Language:** C++ with C# integration  
+**🎯 Target:** Counter-Strike 2  
 
-*Profesjonalne narzędzie dla wymagających graczy*
+*Professional tool for competitive players*
 
 ---
 
-## 🌐 **Moja Strona Internetowa**
+## 🌐 **My Website**
 
+<div align="center">
+  
 ### 🔗 [https://szymon.hik.pl](https://szymon.hik.pl)
 
-**Co znajdziesz na mojej stronie:**
-- 📝 Portfolio moich projektów
-- 🎮 Informacje o cheatach do CS2
-- 💼 Oferta współpracy
-- 📞 Kontakt
-
----
-
-## 📊 **GitHub Stats**
-
-![Szymon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
----
-
-## 📫 **Kontakt & Współpraca**
-
-- 💼 **Strona portfolio:** [https://szymon.hik.pl](https://szymon.hik.pl)
-- 📧 **Email:** *dodaj swój email*
-- 💬 **Discord:** *dodaj swój Discord*
-
----
-
-## 🔥 **Ostatnie Aktualizacje**
-
-```yaml
-Ostatnia aktualizacja: Grudzień 2023
-Aktualny projekt: Tutamaka Cheat CS2
-Status: W trakcie rozwoju
-Technologie: C#, C++, Unity, WebDev
+</div>
