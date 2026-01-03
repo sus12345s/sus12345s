@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Szymon!
+# 👋 Hi, I'm Dj!
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/429450cc-d714-45f1-9b1b-f7b4cfdae926" alt="Earth Animation" width="200" height="200">
