@@ -34,28 +34,6 @@
 
 ---
 
-## 🚀 **Current Projects**
-
-### 🎯 **Tutamaka Cheat for CS2**
-*Advanced external cheat for Counter-Strike 2*
-
-**✨ Features:**
-- 🔍 **ESP/Wallhack** - Advanced enemy highlighting system
-- 🎯 **Aimbot** - Intelligent targeting with smooth aiming
-- 📊 **Statistics** - Detailed game information overlay
-- ⚙️ **Customization** - Full configuration options
-- 🔒 **Security** - Advanced anti-detection mechanisms
-- 🖥️ **Overlay** - Clean and customizable game overlay
-
-**🛡️ Type:** External cheat  
-**🌍 Status:** In active development  
-**💻 Language:** C++ with C# integration  
-**🎯 Target:** Counter-Strike 2  
-
-*Professional tool for competitive players*
-
----
-
 ## 🌐 **My Website**
 
 <div align="center">
